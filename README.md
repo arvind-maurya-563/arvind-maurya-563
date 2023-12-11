@@ -8,7 +8,7 @@
 ## <p style="display:flex; align-items: center"> <img src="https://img.icons8.com/color/48/000000/user-male-circle--v2.png"/> About Me </p> 
 - 👨‍💻 My Portfolio - [Arvind Maurya](https://arvind-portfolio-1.netlify.app)
 
-- 🌱 I’m learning Data Structures and Algorithms.
+- 🌱 Data Structures and Algorithms.
 
 - 📫 How to reach me mauryaarvind962@gmail.com
 
